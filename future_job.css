@@ -1,0 +1,246 @@
+/*
+	@name future_job
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1837px; width: 1837px; height: 1064px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__future_job {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 1064px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_12 {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 1064px;
+}
+
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 115px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4 {
+	top: 20px;
+	left: 99px;
+	width: 90px;
+	height: 89px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 5px solid #ad6a6a;
+	background:rgba(0,56.1,255,1);
+}
+
+
+#d {
+	top: 9px;
+	left: 117px;
+	width: 215px;
+	height: 205px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 80px;
+	text-align: left;
+	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-color: #505050;
+	color: rgba(0,0,0,0.25);
+	opacity: 0.25;
+}
+#d:before {
+
+	content: "D";
+	position: absolute;
+	top: 0px;
+	left: 4px;
+	color: #FFFFFF;
+}
+
+
+#avid {
+	top: 36px;
+	left: 207px;
+	width: 137px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #3d3d3d;
+	color:#FFFFFF;
+}
+
+
+#_about {
+	top: 41px;
+	left: 1124px;
+	width: 204px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#food {
+	top: 41px;
+	left: 1234px;
+	width: 108px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_home {
+	top: 39px;
+	left: 1016px;
+	width: 122px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#place {
+	top: 43px;
+	left: 1328px;
+	width: 116px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_hobbies {
+	top: 41px;
+	left: 1427px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#future_job {
+	top: 40px;
+	left: 1568px;
+	width: 192px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_282347500_1111047572776133_5691616294609233143_n_1 {
+	top: 322px;
+	left: 178px;
+	width: 531px;
+	height: 400px;
+}
+
+
+#_277614328_268539172156301_8922200806376656210_n_1 {
+	top: 348px;
+	left: 568px;
+	width: 841px;
+	height: 316px;
+}
+
+
+#_296318557_5267673956645686_7194738536469709625_n_1 {
+	top: 348px;
+	left: 1209px;
+	width: 487px;
+	height: 316px;
+}
+
+
+#__data_analyst {
+	top: 734px;
+	left: 281px;
+	width: 377px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__pt {
+	top: 734px;
+	left: 903px;
+	width: 139px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__data_support {
+	top: 722px;
+	left: 1260px;
+	width: 387px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

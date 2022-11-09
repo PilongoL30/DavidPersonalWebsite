@@ -1,0 +1,217 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1837px; width: 1837px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__about {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 1080px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+}
+
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 115px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_5 {
+	top: 150px;
+	left: 418px;
+	width: 409px;
+	height: 257px;
+}
+
+
+#_3rd_1 {
+	top: 56px;
+	left: 827px;
+	width: 328px;
+	height: 429px;
+}
+
+
+#_4th_1 {
+	top: 456px;
+	left: 59px;
+	width: 470px;
+	height: 295px;
+}
+
+
+#goals__1 {
+	top: 400px;
+	left: 303px;
+	width: 638px;
+	height: 358px;
+}
+
+
+#_about {
+	top: 45px;
+	left: 790px;
+	width: 194px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_home {
+	top: 44px;
+	left: 711px;
+	width: 83px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_4 {
+	top: 20px;
+	left: 99px;
+	width: 90px;
+	height: 75px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 5px solid #ad6a6a;
+	background:rgba(0,56.1,255,1);
+}
+
+
+#d {
+	top: 9px;
+	left: 117px;
+	width: 215px;
+	height: 205px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 80px;
+	text-align: left;
+	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-color: #505050;
+	color: rgba(0,0,0,0.25);
+	opacity: 0.25;
+}
+#d:before {
+
+	content: "D";
+	position: absolute;
+	top: 0px;
+	left: 4px;
+	color: #FFFFFF;
+}
+
+
+#avid {
+	top: 36px;
+	left: 207px;
+	width: 137px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #3d3d3d;
+	color:#FFFFFF;
+}
+
+
+#_food {
+	top: 46px;
+	left: 872px;
+	width: 74px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_place {
+	top: 46px;
+	left: 951px;
+	width: 79px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_hobbies {
+	top: 46px;
+	left: 1023px;
+	width: 107px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_future_job {
+	top: 46px;
+	left: 1123px;
+	width: 130px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 129px;
+	left: 44px;
+	width: 500px;
+	height: 327px;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,246 @@
+/*
+	@name place
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1837px; width: 1837px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__place {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 1080px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_10 {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 1080px;
+}
+
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 1837px;
+	height: 115px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4 {
+	top: 20px;
+	left: 99px;
+	width: 90px;
+	height: 89px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 5px solid #ad6a6a;
+	background:rgba(0,56.1,255,1);
+}
+
+
+#d {
+	top: 9px;
+	left: 117px;
+	width: 215px;
+	height: 205px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 80px;
+	text-align: left;
+	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-color: #505050;
+	color: rgba(0,0,0,0.25);
+	opacity: 0.25;
+}
+#d:before {
+
+	content: "D";
+	position: absolute;
+	top: 0px;
+	left: 4px;
+	color: #FFFFFF;
+}
+
+
+#avid {
+	top: 36px;
+	left: 207px;
+	width: 137px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #3d3d3d;
+	color:#FFFFFF;
+}
+
+
+#_about {
+	top: 41px;
+	left: 1124px;
+	width: 204px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#food {
+	top: 41px;
+	left: 1234px;
+	width: 108px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_home {
+	top: 39px;
+	left: 1016px;
+	width: 122px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#place {
+	top: 43px;
+	left: 1328px;
+	width: 116px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_hobbies {
+	top: 41px;
+	left: 1427px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#future_job {
+	top: 40px;
+	left: 1568px;
+	width: 192px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_282262113_1027131181509624_6535609255969935856_n_1 {
+	top: 348px;
+	left: -42px;
+	width: 641px;
+	height: 362px;
+}
+
+
+#_274013111_683807282800168_6550987450941264371_n_1 {
+	top: 144px;
+	left: 568px;
+	width: 628px;
+	height: 757px;
+}
+
+
+#__moa {
+	top: 748px;
+	left: 1409px;
+	width: 191px;
+	height: 150px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__cloud_9 {
+	top: 748px;
+	left: 764px;
+	width: 288px;
+	height: 150px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__national_museum {
+	top: 736px;
+	left: 70px;
+	width: 485px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_274338607_933551244028884_8068288020886128479_n_1 {
+	top: 348px;
+	left: 1167px;
+	width: 670px;
+	height: 362px;
+}
+
+
+
+/* Add your custom CSS here */
